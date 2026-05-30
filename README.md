@@ -1,4 +1,7 @@
+Customer Behaviour Analysis -Task 1
+
 Overview
+
 This project analyzes 250,000 e-commerce transactions from 49,661 unique customers spanning January 2020 to September 2023. The goal was to understand customer purchasing behavior, segment customers using RFM modeling, identify churn risk, and uncover revenue patterns across categories, payment methods, and demographics.
 Dataset
 
